@@ -1,0 +1,18 @@
+{
+    "PROMO-CKSZJY": {
+        "coupon_id": "PROMO-CKSZJY",
+        "recipient": "Amir",
+        "expiry_date": "05.06.2025",
+        "created_at": "2025-05-31 20:45:53",
+        "used": false,
+        "used_at": "2025-05-31 20:46:23"
+    },
+    "PROMO-9WE8WH": {
+        "coupon_id": "PROMO-9WE8WH",
+        "recipient": "Amir",
+        "expiry_date": "05.06.2025",
+        "created_at": "2025-05-31 20:45:53",
+        "used": false,
+        "used_at": "2025-05-31 21:31:07"
+    }
+}
