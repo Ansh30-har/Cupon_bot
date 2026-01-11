@@ -6,8 +6,8 @@ from dotenv import load_dotenv
 from aiogram import Bot, Dispatcher, types
 from aiogram.dispatcher.filters import Command
 from aiogram.types import Message, ReplyKeyboardMarkup, KeyboardButton, InlineKeyboardMarkup, InlineKeyboardButton
-from aiogram.fsm.context import FSMContext
-from aiogram.fsm.state import State, StatesGroup
+from aiogram.dispatcher import FSMContext
+from aiogram.dispatcher.filters.state import State, StatesGroup
 import qrcode
 from reportlab.pdfgen import canvas
 from reportlab.pdfbase import pdfmetrics
@@ -605,4 +605,5 @@ async def main():
 if __name__ == "__main__":
     import asyncio
     asyncio.run(main())
+
 
