@@ -1,8 +1,6 @@
-aiogram==3.3.0
-pydantic<2
-aiohttp<4
+aiogram==2.25.2
 qrcode
-fpdf2
+fpdf
 python-dotenv
 pillow
 numpy
