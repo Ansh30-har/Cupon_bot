@@ -4,5 +4,6 @@ fpdf2
 python-dotenv
 pillow
 numpy
-opencv-python-headless
+opencv-python-headless==4.8.1.78
 pydantic<2
+
