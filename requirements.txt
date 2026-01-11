@@ -1,7 +1,8 @@
-aiogram==2.25.2
+aiogram==3.3.0
 qrcode
-fpdf
+fpdf2
 python-dotenv
 pillow
 numpy
 opencv-python-headless
+reportlab
