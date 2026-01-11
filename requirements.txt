@@ -4,4 +4,5 @@ fpdf2
 python-dotenv
 pillow
 numpy
-opencv-python-headless
+opencv-python
+pyzbar
