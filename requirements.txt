@@ -4,5 +4,5 @@ fpdf2
 python-dotenv
 pillow
 numpy
-opencv-python
-pyzbar
+opencv-python-headless
+pydantic<2
