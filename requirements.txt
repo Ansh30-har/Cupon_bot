@@ -1,8 +1,10 @@
 aiogram==3.3.0
+python-dotenv
 qrcode
 fpdf2
-python-dotenv
 pillow
 numpy
-opencv-python-headless==4.8.1.78
-pydantic>=2
+opencv-python-headless
+pydantic==2.5.3
+pydantic-core==2.14.6
+aiohttp
